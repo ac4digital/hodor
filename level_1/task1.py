@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 url = "http://158.69.76.135/level1.php"
 form = {
-        "id": "79",
+        "id": "3866",
         "holdthedoor": "Submit",
         "key": ""
         }
